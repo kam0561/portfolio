@@ -11589,9 +11589,10 @@ html {
 }
 .profile .profile-img {
   height: 80vw;
-  max-height: 45rem;
+  max-height: 30rem;
   position: absolute;
-  bottom: 0;
+  top: 2;
+  bottom: 2;
   left: 50%;
   transform: translateX(-50%);
 }
